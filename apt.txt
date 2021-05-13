@@ -1,6 +1,7 @@
 libgdal-dev
 libproj-dev
 libgeos-dev
+libgsl-dev
 libudunits2-dev
 xorg
 libx11-dev
@@ -14,4 +15,3 @@ ghostscript
 libmagick++-dev
 # added based on https://github.com/ropensci/magick/issues/198#issuecomment-504039804 
 # when I was trying to add install of magick package
-libgsl-dev
