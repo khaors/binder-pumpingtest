@@ -1,10 +1,10 @@
 # binder-pumpingtest
 
-R [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/khaors/binder-pumpingtest/main)
+R [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/khaors/binder-pumpingtest1/main)
 
-Rstudio [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/khaors/binder-pumpingtest/main?urlpath=rstudio)
+Rstudio [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/khaors/binder-pumpingtest1/main?urlpath=rstudio)
 
-Shiny [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/khaors/binder-pumpingtest/main?urlpath=shiny/pumpingtest/)
+Shiny [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/khaors/binder-pumpingtest1/main?urlpath=shiny/pumpingtest/)
 
 
 This repository contains the files for a binder container of the pumpingtest package. 
