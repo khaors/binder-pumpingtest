@@ -1,7 +1,7 @@
+libgsl-dev
 libgdal-dev
 libproj-dev
 libgeos-dev
-libgsl-dev
 libudunits2-dev
 xorg
 libx11-dev
